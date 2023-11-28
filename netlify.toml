@@ -1,0 +1,5 @@
+[build]
+  edge_functions = "edge-functions"
+
+[dev]
+  framework = "#static"

@@ -1,0 +1,10 @@
+{
+  "name": "edge-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joakim Millén <joakim.millen@alster.se>",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/edge-functions": "^2.2.0"
+  }
+}
